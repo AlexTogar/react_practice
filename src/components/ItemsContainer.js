@@ -1,4 +1,4 @@
-import card1 from "./images/card1.jpg";
+import card1 from "../images/card1.jpg";
 import React from "react";
 import {Component, Fragment} from 'react';
 import ItemCard from "./ItemCard";

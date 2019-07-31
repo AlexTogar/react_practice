@@ -1,4 +1,4 @@
-import search from "./images/svg/search.svg";
+import search from "../images/svg/search.svg";
 import React from "react";
 import {Component, Fragment} from 'react';
 

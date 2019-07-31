@@ -1,6 +1,6 @@
 import React from 'react';
 import {Component, Fragment} from 'react';
-import basket from "./images/svg/cart.svg";
+import basket from "../images/svg/cart.svg";
 
 class Basket extends Component {
     constructor(props) {

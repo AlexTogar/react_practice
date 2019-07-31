@@ -7,10 +7,10 @@ import card3 from './images/card3.jpg';
 import card4 from './images/card4.jpg';
 import card5 from './images/card5.jpg';
 
-import ItemsContainer from './ItemsContainer'
-import ItemCard from "./ItemCard";
-import Basket from "./Basket";
-import Search from "./Search";
+import ItemsContainer from './components/ItemsContainer'
+import ItemCard from "./components/ItemCard";
+import Basket from "./components/Basket";
+import Search from "./components/Search";
 
 
 class MainPage extends Component {
