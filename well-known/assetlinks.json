@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.plohkt",
+      "sha256_cert_fingerprints": ["C6:12:55:61:15:92:1C:3E:5D:9C:D1:3D:D9:92:AD:AC:B7:0C:86:54:B2:D0:33:46:4B:11:CE:E2:8B:ED:7E:04"]
+    }
+  }
+]
